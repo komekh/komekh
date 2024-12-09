@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Komek!
 
-<!--
-**komekh/komekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**  
+- 🔭 I’m currently working on [Project Name or Area].  
+- 🌱 I’m learning [Tech/Framework].  
+- 💬 Ask me about [Flutter, Nodejs, Golang].  
+- 📫 How to reach me: [komek.h@gmail.com].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Technologies & Tools**  
+![Tech Stack](https://img.shields.io/badge/-React-black?logo=flutter) ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=nodejs) ...  
+
+---
+
+🛠️ **Projects & Contributions**  
+- 🌟 [Project Name](link) - Short description.  
+- 🚀 [Open Source Contribution](link) - Short description.
+
+---
+
+📊 **GitHub Stats**  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+🌐 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](your-linkedin-url) 
+[![Website](https://img.shields.io/badge/-Portfolio-lightgrey?logo=google-chrome)](your-portfolio-url)
+
