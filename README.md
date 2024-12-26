@@ -4,7 +4,7 @@
 - 💻 **7+ years** of experience as a full-stack developer.  
 - 🔭 Currently focused on **Nodejs** and **Nestjs** development.  
 - 🌱 Learning **German (A1.2)** to adapt and grow in Germany.  
-- 💬 Ask me about **Flutter, Node.js, Golang, Vue, Angular, Microservices and API development**.  
+- 💬 Ask me about **Node.js, Flutter, Golang, Vue, Angular, Microservices and API development**.  
 - 🚀 Passionate about building scalable, clean, and efficient solutions.  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/komekh) | [Email](mailto:komek.h@gmail.com)
 
